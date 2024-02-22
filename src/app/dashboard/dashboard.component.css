@@ -1,0 +1,57 @@
+.overview {
+    position: absolute;
+    display: flex;
+    top: 97px;
+    left: 300px;
+    width: 78%;
+    height: 164px;
+}
+
+.card {
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    margin-left: 10px;
+    width: 246px;
+    height: 100px;
+    padding: 16px;
+    border-radius: 8px;
+    align-items:center;
+    gap: 16px;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+    background-color: #ffffff;
+}
+
+.total {
+    width: 246px;
+    gap: 8px
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+    width: Fill (246px);
+height: Hug (48px);
+gap: 8px;
+}
+
+.text{padding-left: 20px;
+    width: 224px;
+height: 24px;
+font-family: 'Inter';
+font-size: 24px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #101828;
+}
+
+.count{
+padding-top: 10px;
+font-family: 'Inter';
+font-size: 28px;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: -0.02em;
+text-align: left;
+
+}
